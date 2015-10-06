@@ -1,0 +1,10 @@
+
+Internal IP:
+http://192.168.1.146:8080/Thingworx
+Username: Administrator
+Password: ZZh7y6dn
+
+Public IP:
+http://119.82.98.187:8080/Thingworx
+Username: Administrator
+Password: ZZh7y6dn
